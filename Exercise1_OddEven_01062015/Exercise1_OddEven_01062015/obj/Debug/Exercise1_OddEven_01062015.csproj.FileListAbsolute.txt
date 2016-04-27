@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Exercise1_OddEven_01062015\Exercise1_OddEven_01062015\bin\Debug\Exercise1_OddEven_01062015.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Exercise1_OddEven_01062015\Exercise1_OddEven_01062015\bin\Debug\Exercise1_OddEven_01062015.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Exercise1_OddEven_01062015\Exercise1_OddEven_01062015\bin\Debug\Exercise1_OddEven_01062015.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Exercise1_OddEven_01062015\Exercise1_OddEven_01062015\obj\Debug\Exercise1_OddEven_01062015.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Exercise1_OddEven_01062015\Exercise1_OddEven_01062015\obj\Debug\Exercise1_OddEven_01062015.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Exercise1_OddEven_01062015\Exercise1_OddEven_01062015\obj\Debug\Exercise1_OddEven_01062015.pdb

@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Chap8_TryItOutCylinder_01092016\Chap8_TryItOutCylinder_01092016\bin\Debug\Chap8_TryItOutCylinder_01092016.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Chap8_TryItOutCylinder_01092016\Chap8_TryItOutCylinder_01092016\bin\Debug\Chap8_TryItOutCylinder_01092016.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Chap8_TryItOutCylinder_01092016\Chap8_TryItOutCylinder_01092016\bin\Debug\Chap8_TryItOutCylinder_01092016.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Chap8_TryItOutCylinder_01092016\Chap8_TryItOutCylinder_01092016\obj\Debug\Chap8_TryItOutCylinder_01092016.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Chap8_TryItOutCylinder_01092016\Chap8_TryItOutCylinder_01092016\obj\Debug\Chap8_TryItOutCylinder_01092016.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Chap8_TryItOutCylinder_01092016\Chap8_TryItOutCylinder_01092016\obj\Debug\Chap8_TryItOutCylinder_01092016.pdb
